@@ -1,5 +1,7 @@
 # Astro Starter Kit: Blog
 
+[![CI](https://github.com/lirc572-bfe/dada/actions/workflows/ci.yml/badge.svg)](https://github.com/lirc572-bfe/dada/actions/workflows/ci.yml)
+
 ```sh
 npm create astro@latest -- --template blog
 ```
